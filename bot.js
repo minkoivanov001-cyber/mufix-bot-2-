@@ -19,7 +19,7 @@ const client = new Client({
   ]
 });
 
-const TOKEN = 'MTU3MTY1OTUzMjM5MDYzNzY3OQ.Gy-SV0.XCCYJpY4VdR2Q9K1Wrbhb3bfEkk_8iXZT0h2Is';
+const TOKEN = 'MTU3MTY1OTUzMjM5MDYzNzY3OQ.Gu1yIC.tVK4qmtI7thXB3i6JnIyy4_8fiHTCAGjlJAUWY';
 const SES_KANALI_ID = '1571672478403526716';
 
 function seseBaglan() {
